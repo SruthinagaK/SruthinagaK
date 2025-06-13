@@ -1,13 +1,9 @@
 # <a href="https://www.linkedin.com/in/naga-sruthi/">Naga Sruthi K</a>'s IT and Cybersecurity Project Portfolio 🔐
-
-🔐 Cybersecurity Projects & Threat Hunting Experience
-I'm deeply passionate about cybersecurity and thrive on solving complex challenges through hands-on, real-world projects. My work spans across vulnerability management, threat detection, and incident response, where I continuously explore the evolving threat landscape to enhance security operations and processes.
-
-
+ 
 ##  🔐 Cybersecurity Enthusiast | Threat Hunter | Vulnerability Management Practitioner
 Exploring the cyber landscape through hands-on labs and real-world scenarios. Passionate about proactive defense, threat detection, and securing digital environments. Currently working on threat hunting playbooks and vulnerability remediation strategies in cyber range simulations.
 
-⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation] **
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)] **
