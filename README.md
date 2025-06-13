@@ -16,7 +16,7 @@ Exploring the cyber landscape through hands-on labs and real-world scenarios. Pa
 
 The Great Admin Heist: Shadows in the System - Simulated Threat Hunting Report – ACME Corp | May 2025
 
-This report (https://github.com/nagasruthik/the_phantam_hacker_casestudy) documents a simulated cyber threat hunting exercise involving a fictional breach at ACME Corp by an APT group called The Phantom Hackers. The attackers compromised a privileged IT admin account and deployed a fake antivirus named BitSentinelCore.exe as their initial access vector. Using telemetry from Microsoft Defender for Endpoint (MDE) and KQL queries, the investigation uncovered 10 key indicators of compromise (flags), mapped to the MITRE ATT&CK framework.
+This report (https://github.com/SruthinagaK/phantom-hackers-case-study) documents a simulated cyber threat hunting exercise involving a fictional breach at ACME Corp by an APT group called The Phantom Hackers. The attackers compromised a privileged IT admin account and deployed a fake antivirus named BitSentinelCore.exe as their initial access vector. Using telemetry from Microsoft Defender for Endpoint (MDE) and KQL queries, the investigation uncovered 10 key indicators of compromise (flags), mapped to the MITRE ATT&CK framework.
 <hr/>
 
 ## 🤳 Connect With Me
