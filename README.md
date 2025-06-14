@@ -8,10 +8,6 @@ Exploring the cyber landscape through hands-on labs and real-world scenarios. Pa
 - **[Vulnerability Management Program Implementation](https://github.com/SruthinagaK/vulnerability-management-program) **
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)] **
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)]**
-
 ## 🎯 Cyber Threat Hunting Engagement 
 
 The Great Admin Heist: Shadows in the System - Simulated Threat Hunting Report – ACME Corp | May 2025
