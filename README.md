@@ -1,6 +1,7 @@
 # 🚀 Cybersecurity in Action: My Portfolio & Projects
 
-## 👋 Hi, I'm Sruthinaga! - 🔐 Cybersecurity Enthusiast | Threat Hunter | Vulnerability Management Practitioner
+## 👋 Hi, I'm Sruthinaga! 
+   (🔐 Cybersecurity Enthusiast | Threat Hunter | Vulnerability Management Practitioner)
 Welcome to my GitHub profile! I'm a passionate cybersecurity enthusiast.Exploring the cyber landscape through hands-on labs and real-world scenarios. Passionate about proactive defense, threat detection, and securing digital environments. Currently working on threat hunting playbooks and vulnerability remediation strategies in cyber range simulations. 
 
 ## 🔍 What I'm Working On
