@@ -23,7 +23,7 @@ This report (https://github.com/SruthinagaK/phantom-hackers-case-study) document
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[linkedin]:(https://www.linkedin.com/in/naga-sruthi/)
+[linkedin]: https://www.linkedin.com/in/naga-sruthi/
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
