@@ -1,7 +1,12 @@
 # Naga Sruthi K</a>'s IT and Cybersecurity Project Portfolio 🔐
- 
-##  🔐 Cybersecurity Enthusiast | Threat Hunter | Vulnerability Management Practitioner
-Exploring the cyber landscape through hands-on labs and real-world scenarios. Passionate about proactive defense, threat detection, and securing digital environments. Currently working on threat hunting playbooks and vulnerability remediation strategies in cyber range simulations.
+
+## 👋 Hi, I'm Sruthinaga! - 🔐 Cybersecurity Enthusiast | Threat Hunter | Vulnerability Management Practitioner
+Welcome to my GitHub profile! I'm a passionate cybersecurity enthusiast.Exploring the cyber landscape through hands-on labs and real-world scenarios. Passionate about proactive defense, threat detection, and securing digital environments. Currently working on threat hunting playbooks and vulnerability remediation strategies in cyber range simulations. 
+
+## 🔍 What I'm Working On
+- Threat Hunting Projects: Analyzing real-world case studies to detect cyber threats
+- Vulnerability Management: Developing strategies for securing systems
+
 
 ## ⚠️ Vulnerability Management Projects
 
