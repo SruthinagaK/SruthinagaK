@@ -16,6 +16,7 @@ This report (https://github.com/SruthinagaK/phantom-hackers-case-study) document
 
 ## ⚠️ Vulnerability Management Projects
 
+-**[windows-vulnerability-authenticated-vs-unauthenticated-tenable-vuln-scan-analysis](https://github.com/SruthinagaK/authenticated-vs-unauthenticated-tennable-windowsscan)
 - **[Vulnerability Management Program Implementation](https://github.com/SruthinagaK/vulnerability-management-program) **
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)] **
 
