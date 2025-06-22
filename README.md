@@ -17,7 +17,7 @@ This report (https://github.com/SruthinagaK/phantom-hackers-case-study) document
 ## ⚠️ Vulnerability Management Projects
 
 -  [windows-vulnerability-authenticated-vs-unauthenticated-tenable-vuln-scan-analysis](https://github.com/SruthinagaK/authenticated-vs-unauthenticated-tennable-windowsscan)
--  [Linux-vulnerability=wuhtenticated-vs-unauthenticated-tenable-scan analysis](https://github.com/SruthinagaK/azure-linux-tenable-scan-auth-vs-unauth-lab/)
+-  [Linux-vulnerability-auhtenticated-vs-unauthenticated-tenable-scan analysis](https://github.com/SruthinagaK/azure-linux-tenable-scan-auth-vs-unauth-lab/)
 - **[Vulnerability Management Program Implementation](https://github.com/SruthinagaK/vulnerability-management-program) [In Progress]**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)] **
 
