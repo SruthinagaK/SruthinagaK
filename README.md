@@ -15,10 +15,16 @@ This report [Phantom Hacker Case Study](https://github.com/SruthinagaK/phantom-h
 <hr/>
 
 🕵️‍♂️ Threat Hunt: Lurker | July2025
-🔍 Summary
+
+🔍 **Summary** :
 In the aftermath of a seemingly contained breach, a second machine began showing signs of compromise — but this time, the attacker was more subtle. The logs were cleaner. The traces were faint. And yet, they were there.
 
-This threat hunt report [Luker- Threat Hunting]( https://github.com/SruthinagaK/ThreatHunt-Lurker)  scenario, Lurker, follows a multi-stage investigation across two systems. It uncovers the attacker’s full kill chain 
+This threat hunt report [Luker- Threat Hunting]( https://github.com/SruthinagaK/ThreatHunt-Lurker)  scenario, Lurker, follows a multi-stage investigation across two systems. It uncovers the attacker’s full kill chain nd highlights the importance of timeline analysis and behavioral detection. 
+
+🧭 **Personal Note** :
+This is my second time participating in the competition. I was curious to participate and learn from a real-world threat scenario. The experience helped me understand how to analyze the timeline of events and write effective KQL queries.
+
+Whenever I got stuck, I reached out to the community, and the insights and tips I received were incredibly helpful. I’ve learned from my mistakes and improved my approach — and that’s a win in itself.
 <hr/>
 
 ##
