@@ -14,6 +14,14 @@ The Great Admin Heist: Shadows in the System - Simulated Threat Hunting Report �
 This report (https://github.com/SruthinagaK/phantom-hackers-case-study) documents a simulated cyber threat hunting exercise involving a fictional breach at ACME Corp by an APT group called The Phantom Hackers. The attackers compromised a privileged IT admin account and deployed a fake antivirus named BitSentinelCore.exe as their initial access vector. Using telemetry from Microsoft Defender for Endpoint (MDE) and KQL queries, the investigation uncovered 10 key indicators of compromise (flags), mapped to the MITRE ATT&CK framework.
 <hr/>
 
+🕵️‍♂️ Threat Hunt: Lurker |  J uly2025
+🔍 Summary
+In the aftermath of a seemingly contained breach, a second machine began showing signs of compromise — but this time, the attacker was more subtle. The logs were cleaner. The traces were faint. And yet, they were there.
+
+This threat hunt report()  scenario, Lurker, follows a multi-stage investigation across two systems. It uncovers the attacker’s full kill chain using:
+<hr/>
+
+##
 ## ⚠️ Vulnerability Management Projects
 
 -  [windows-vulnerability-authenticated-vs-unauthenticated-tenable-vuln-scan-analysis](https://github.com/SruthinagaK/authenticated-vs-unauthenticated-tennable-windowsscan)
