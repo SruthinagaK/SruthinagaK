@@ -18,7 +18,7 @@ This report (https://github.com/SruthinagaK/phantom-hackers-case-study) document
 🔍 Summary
 In the aftermath of a seemingly contained breach, a second machine began showing signs of compromise — but this time, the attacker was more subtle. The logs were cleaner. The traces were faint. And yet, they were there.
 
-This threat hunt report()  scenario, Lurker, follows a multi-stage investigation across two systems. It uncovers the attacker’s full kill chain using:
+This threat hunt report( https://github.com/SruthinagaK/ThreatHunt-Lurker)  scenario, Lurker, follows a multi-stage investigation across two systems. It uncovers the attacker’s full kill chain using:
 <hr/>
 
 ##
